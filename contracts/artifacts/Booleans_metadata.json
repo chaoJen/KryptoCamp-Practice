@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "isActive",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"notice": "測試測試 Bool",
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Booleans.sol": "Booleans"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Booleans.sol": {
+			"keccak256": "0xbbfc69d3aa0359e72eaa22aceab33f811c418d36db5d17af2b6ae3377f2d8ce0",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://ffb2a41dad8765c76c37b36b13b3c09b8f584bf0dad3c2104ea30e51cef7f4be",
+				"dweb:/ipfs/QmawN4c1cFrKxRiqCZBLoTPV76SUMqQd6w3dM6wjK4UoJw"
+			]
+		}
+	},
+	"version": 1
+}
