@@ -3,7 +3,10 @@
 pragma solidity >=0.8.2;
 
 contract String {
-    string public message = "hello, Solidity";
-    
+
     constructor() {}
+
+    string public message = "hello, Solidity";
+    string data_moreGas = "test";
+    bytes data_lessGas = "test";
 }

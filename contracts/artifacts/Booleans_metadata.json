@@ -12,6 +12,19 @@
 			},
 			{
 				"inputs": [],
+				"name": "change",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
 				"name": "isActive",
 				"outputs": [
 					{
@@ -32,7 +45,7 @@
 		"userdoc": {
 			"kind": "user",
 			"methods": {},
-			"notice": "測試測試 Bool",
+			"notice": "邏輯運算使用 && ||",
 			"version": 1
 		}
 	},
@@ -53,11 +66,11 @@
 	},
 	"sources": {
 		"contracts/Booleans.sol": {
-			"keccak256": "0xbbfc69d3aa0359e72eaa22aceab33f811c418d36db5d17af2b6ae3377f2d8ce0",
+			"keccak256": "0x585b155ae063794c0560b80bba477fad3538bbc8a6554a4ff498074d34d4436e",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://ffb2a41dad8765c76c37b36b13b3c09b8f584bf0dad3c2104ea30e51cef7f4be",
-				"dweb:/ipfs/QmawN4c1cFrKxRiqCZBLoTPV76SUMqQd6w3dM6wjK4UoJw"
+				"bzz-raw://7b0fa178632ac6acb0631cdd3cd643fd3cf1f756811821bf8e00de6a81790fcb",
+				"dweb:/ipfs/Qmf6WKkY9UqyZnK3RzMveD68Bk5ACjG4Cak9UF9jZNSUtJ"
 			]
 		}
 	},

@@ -11,6 +11,32 @@
 			},
 			{
 				"inputs": [],
+				"name": "balanceOfMyContract",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "contractAddress",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
 				"name": "getOwnerBalance",
 				"outputs": [
 					{
@@ -87,6 +113,7 @@
 		"userdoc": {
 			"kind": "user",
 			"methods": {},
+			"notice": "Address 可用於指向以太坊帳戶或智能合約地址 - Externally Owned Account (EOA) - Contract Account",
 			"version": 1
 		}
 	},
@@ -107,11 +134,11 @@
 	},
 	"sources": {
 		"contracts/Address.sol": {
-			"keccak256": "0xf8def6b4c47f161e1bdb410d3137eb897e78b9648aed9312fea8a8b698018acf",
+			"keccak256": "0x792d39cdb7e2fadffc3e3c22e170eddd93ddc1e13b5fabfa86c7c1faa1ee169b",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://1cdbe84cec99f0c07b48c90a15c7975b3778d1d92e4166e6d88081dc5a7cbbb2",
-				"dweb:/ipfs/QmaBwiubJRc2BSNK9MKKtRA1FYNU1HbPJMPDmB2RaDGfdM"
+				"bzz-raw://8cf99e123e513af8db23c9cd7602cef220e0aadf27c88c5fe462c3e59754d3a6",
+				"dweb:/ipfs/QmUNhsEaqtUpj8E2Ng1Ar7TzS9MPjkEirSv82tG5FFuV9A"
 			]
 		}
 	},

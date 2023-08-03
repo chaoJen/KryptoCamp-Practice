@@ -3,16 +3,16 @@
 pragma solidity >=0.8.2;
 
 /**
- * 測試測試 Bool
+ * 邏輯運算使用 && ||
  */
 contract Booleans {
-    bool public isActive = false;
 
     constructor() {}
+
+    bool public isActive = false;
+
+    function change() public returns (bool) {
+        isActive = !isActive;
+        return isActive;
+    }
 }
-
-// 單行註解
-
-/**
- * 多行註解
- */

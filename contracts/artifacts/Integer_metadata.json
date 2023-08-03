@@ -12,7 +12,33 @@
 			},
 			{
 				"inputs": [],
-				"name": "minuseSupply",
+				"name": "int8_max",
+				"outputs": [
+					{
+						"internalType": "int8",
+						"name": "",
+						"type": "int8"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "int8_min",
+				"outputs": [
+					{
+						"internalType": "int8",
+						"name": "",
+						"type": "int8"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "myInt",
 				"outputs": [
 					{
 						"internalType": "int256",
@@ -25,7 +51,111 @@
 			},
 			{
 				"inputs": [],
-				"name": "totalSupply",
+				"name": "myInt16",
+				"outputs": [
+					{
+						"internalType": "int16",
+						"name": "",
+						"type": "int16"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "myInt32",
+				"outputs": [
+					{
+						"internalType": "int32",
+						"name": "",
+						"type": "int32"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "myInt8",
+				"outputs": [
+					{
+						"internalType": "int8",
+						"name": "",
+						"type": "int8"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "myUint",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "myUint16",
+				"outputs": [
+					{
+						"internalType": "uint16",
+						"name": "",
+						"type": "uint16"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "myUint32",
+				"outputs": [
+					{
+						"internalType": "uint32",
+						"name": "",
+						"type": "uint32"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "myUint8",
+				"outputs": [
+					{
+						"internalType": "uint8",
+						"name": "",
+						"type": "uint8"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "uint8_max",
+				"outputs": [
+					{
+						"internalType": "uint8",
+						"name": "",
+						"type": "uint8"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "uint8_min",
 				"outputs": [
 					{
 						"internalType": "uint8",
@@ -65,11 +195,11 @@
 	},
 	"sources": {
 		"contracts/Integer.sol": {
-			"keccak256": "0xb1a0083143472a7d08fb6cf6ad5418c8b1aa90a2624868245add8a0d6ed74118",
+			"keccak256": "0x676644b5573b214b52222f7c0b084e1a81fea95d80562ac0182a73ac5d30a51b",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://c828af9e98255eab89038014f2f72a8f08d54ec632b904829cd86b1f31cc1878",
-				"dweb:/ipfs/Qme4SQEvbNr7bwsbJyPuCP7thVca8Fz5jXj8a6isPycZmM"
+				"bzz-raw://9b02a39d1f138a200e1be77556865063a684ecfdff425f7040b22389e07259f4",
+				"dweb:/ipfs/QmYB77RFHLgsWg4uusTQdnXvaEkUB68uMM8q19PPLoxSn6"
 			]
 		}
 	},
