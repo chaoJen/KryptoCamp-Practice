@@ -61,7 +61,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Struct.sol": "Struct"
+			"contracts/Chapter2.sol": "Struct"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -75,12 +75,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/Struct.sol": {
-			"keccak256": "0x55bdefacb7fa5911d8967a3a1c92855f482faf8cc1ba8f83be1a0d6dbb9a0c0b",
+		"contracts/Chapter2.sol": {
+			"keccak256": "0xa4677d1fa88c1d1a0dec39a5a27e4a4ce156e58190f5bee93278006314a32ec3",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://3c30bc1c2b93d12299084598f79bcdf8da5d179bf4f64c84875299bbca688a03",
-				"dweb:/ipfs/Qmdw7owygkLjCECMNKn4j5iBmdgSzsJSwuHTczZojFrWKd"
+				"bzz-raw://588dcced4cb1abe3aff043b242797cb1f71766d0ad09cd7710eb0ea18d0725b0",
+				"dweb:/ipfs/QmTuThTD5CVChzCKhn6Lsi3d5ff354AKCddhpAFxUMSK3C"
 			]
 		}
 	},

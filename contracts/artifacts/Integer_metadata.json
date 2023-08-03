@@ -180,7 +180,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Integer.sol": "Integer"
+			"contracts/Chapter2.sol": "Integer"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -194,12 +194,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/Integer.sol": {
-			"keccak256": "0x676644b5573b214b52222f7c0b084e1a81fea95d80562ac0182a73ac5d30a51b",
+		"contracts/Chapter2.sol": {
+			"keccak256": "0xa4677d1fa88c1d1a0dec39a5a27e4a4ce156e58190f5bee93278006314a32ec3",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://9b02a39d1f138a200e1be77556865063a684ecfdff425f7040b22389e07259f4",
-				"dweb:/ipfs/QmYB77RFHLgsWg4uusTQdnXvaEkUB68uMM8q19PPLoxSn6"
+				"bzz-raw://588dcced4cb1abe3aff043b242797cb1f71766d0ad09cd7710eb0ea18d0725b0",
+				"dweb:/ipfs/QmTuThTD5CVChzCKhn6Lsi3d5ff354AKCddhpAFxUMSK3C"
 			]
 		}
 	},

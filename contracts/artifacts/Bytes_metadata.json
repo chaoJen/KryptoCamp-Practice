@@ -50,7 +50,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Byte.sol": "Bytes"
+			"contracts/Chapter2.sol": "Bytes"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -64,12 +64,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/Byte.sol": {
-			"keccak256": "0x3439a14b7d79dd3000cbab6daf9bbf83ba83bef41efd3b489651766b027b91cc",
+		"contracts/Chapter2.sol": {
+			"keccak256": "0xa4677d1fa88c1d1a0dec39a5a27e4a4ce156e58190f5bee93278006314a32ec3",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://8eaed7b39110c1c7ac52499d097069ce8fcd3262cae9593f3268c6f901a7563c",
-				"dweb:/ipfs/QmZW4Gw5Vsy5eWSmY5oHAx2S85ZmA2Dwu1PQhL6mKVXndJ"
+				"bzz-raw://588dcced4cb1abe3aff043b242797cb1f71766d0ad09cd7710eb0ea18d0725b0",
+				"dweb:/ipfs/QmTuThTD5CVChzCKhn6Lsi3d5ff354AKCddhpAFxUMSK3C"
 			]
 		}
 	},

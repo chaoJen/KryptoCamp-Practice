@@ -51,7 +51,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Enum.sol": "Enum"
+			"contracts/Chapter2.sol": "Enum"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -65,12 +65,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/Enum.sol": {
-			"keccak256": "0x7dd007959a3f8bfdaab9ae9fa95c37e1e8779631fd8162c1da26da33ca047954",
+		"contracts/Chapter2.sol": {
+			"keccak256": "0xa4677d1fa88c1d1a0dec39a5a27e4a4ce156e58190f5bee93278006314a32ec3",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://b888d05cfb2dad1ead5f7396428fda5ac48b957bd7ae42d6fc0784077f116cdb",
-				"dweb:/ipfs/QmaCWFdLwMQQ8jbUUqaMURAramGsJCiGBymn6QyYb7wcxm"
+				"bzz-raw://588dcced4cb1abe3aff043b242797cb1f71766d0ad09cd7710eb0ea18d0725b0",
+				"dweb:/ipfs/QmTuThTD5CVChzCKhn6Lsi3d5ff354AKCddhpAFxUMSK3C"
 			]
 		}
 	},

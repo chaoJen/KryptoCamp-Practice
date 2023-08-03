@@ -51,7 +51,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Booleans.sol": "Booleans"
+			"contracts/Chapter2.sol": "Booleans"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -65,12 +65,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/Booleans.sol": {
-			"keccak256": "0x585b155ae063794c0560b80bba477fad3538bbc8a6554a4ff498074d34d4436e",
+		"contracts/Chapter2.sol": {
+			"keccak256": "0xa4677d1fa88c1d1a0dec39a5a27e4a4ce156e58190f5bee93278006314a32ec3",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://7b0fa178632ac6acb0631cdd3cd643fd3cf1f756811821bf8e00de6a81790fcb",
-				"dweb:/ipfs/Qmf6WKkY9UqyZnK3RzMveD68Bk5ACjG4Cak9UF9jZNSUtJ"
+				"bzz-raw://588dcced4cb1abe3aff043b242797cb1f71766d0ad09cd7710eb0ea18d0725b0",
+				"dweb:/ipfs/QmTuThTD5CVChzCKhn6Lsi3d5ff354AKCddhpAFxUMSK3C"
 			]
 		}
 	},

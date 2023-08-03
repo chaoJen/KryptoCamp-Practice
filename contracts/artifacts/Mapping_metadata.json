@@ -45,7 +45,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Mapping.sol": "Mapping"
+			"contracts/Chapter2.sol": "Mapping"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -59,12 +59,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/Mapping.sol": {
-			"keccak256": "0xd7de86ffb0d06c8be32738284668f760cdb59119436549f4d37654fe2113de9d",
+		"contracts/Chapter2.sol": {
+			"keccak256": "0xa4677d1fa88c1d1a0dec39a5a27e4a4ce156e58190f5bee93278006314a32ec3",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://0dc74dc9362972c5059c369e9b9e2ab3483407f66613dc18ba7159ad1b9f31fc",
-				"dweb:/ipfs/QmaFYeaZzvW72afCyHN7TwG7WLwZy46Yk92EwRfmTy7xyR"
+				"bzz-raw://588dcced4cb1abe3aff043b242797cb1f71766d0ad09cd7710eb0ea18d0725b0",
+				"dweb:/ipfs/QmTuThTD5CVChzCKhn6Lsi3d5ff354AKCddhpAFxUMSK3C"
 			]
 		}
 	},

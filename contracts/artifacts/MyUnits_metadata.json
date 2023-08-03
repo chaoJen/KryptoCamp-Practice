@@ -7,17 +7,12 @@
 		"abi": [
 			{
 				"inputs": [],
-				"stateMutability": "nonpayable",
-				"type": "constructor"
-			},
-			{
-				"inputs": [],
-				"name": "message",
+				"name": "costOfNFT",
 				"outputs": [
 					{
-						"internalType": "string",
+						"internalType": "uint256",
 						"name": "",
-						"type": "string"
+						"type": "uint256"
 					}
 				],
 				"stateMutability": "view",
@@ -32,12 +27,13 @@
 		"userdoc": {
 			"kind": "user",
 			"methods": {},
+			"notice": "1 wei == 1; 1 gwei == 1e9; 1 ether == 1e18;",
 			"version": 1
 		}
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Chapter2.sol": "String"
+			"contracts/Chapter3.sol": "MyUnits"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -51,12 +47,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/Chapter2.sol": {
-			"keccak256": "0xa4677d1fa88c1d1a0dec39a5a27e4a4ce156e58190f5bee93278006314a32ec3",
+		"contracts/Chapter3.sol": {
+			"keccak256": "0x4236e8cb11054f1725e72de82c8a5141d24a2303c8ab66d2fab3923eb04b4220",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://588dcced4cb1abe3aff043b242797cb1f71766d0ad09cd7710eb0ea18d0725b0",
-				"dweb:/ipfs/QmTuThTD5CVChzCKhn6Lsi3d5ff354AKCddhpAFxUMSK3C"
+				"bzz-raw://11fc9d9195ef4bab022d44cd3a36396b7f31888a49e347b1bc63ae6c3210b318",
+				"dweb:/ipfs/QmTUxDEeUcUHhXznpburyFgLCjPMQp8pY2JvXb7VzdMV6o"
 			]
 		}
 	},
