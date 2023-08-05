@@ -4,40 +4,7 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [
-			{
-				"inputs": [],
-				"stateMutability": "nonpayable",
-				"type": "constructor"
-			},
-			{
-				"inputs": [],
-				"name": "makeSuperRare",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "rarity",
-				"outputs": [
-					{
-						"internalType": "enum Enum.Rarity",
-						"name": "",
-						"type": "uint8"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "reset",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			}
-		],
+		"abi": [],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -46,12 +13,13 @@
 		"userdoc": {
 			"kind": "user",
 			"methods": {},
+			"notice": "Data Structures  - Array - Mapping - Struct - Enum",
 			"version": 1
 		}
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Chapter6.sol": "Enum"
+			"contracts/Chapter6.sol": "Chapter6"
 		},
 		"evmVersion": "paris",
 		"libraries": {},

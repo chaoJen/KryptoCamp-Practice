@@ -34,6 +34,10 @@
 				],
 				"stateMutability": "view",
 				"type": "function"
+			},
+			{
+				"stateMutability": "payable",
+				"type": "receive"
 			}
 		],
 		"devdoc": {
@@ -64,11 +68,11 @@
 	},
 	"sources": {
 		"contracts/Chapter5.sol": {
-			"keccak256": "0x995c7bacf129e4db3a9be679a0afe6c87ca328fec865b37c418c18712696b583",
+			"keccak256": "0xa5c727ea3a01879ed4ddd3a27b79e68e2b7bdf75c1ca7dcc79bd3f313a47c9d4",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://34cf1401d6b31f7c68ac24d98e402b3dfdfab0488fc8ea60bc17ee83e64ded9c",
-				"dweb:/ipfs/QmSRyrR5zwYMua8VwZdEJwH58DHhuAge6gH52pV8pWe21k"
+				"bzz-raw://2c8d276e870826adbedd2c28ec4cf43542db5f07528aad073c63b5b43fbe45ce",
+				"dweb:/ipfs/Qmdzn19VSeHf2LtLC96yGtbJV5ZiV8TnGBuAZcoWgL2pfJ"
 			]
 		}
 	},

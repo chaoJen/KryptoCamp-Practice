@@ -88,7 +88,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Chapter2.sol": "Array"
+			"contracts/Chapter6.sol": "Array"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -102,12 +102,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/Chapter2.sol": {
-			"keccak256": "0xa4677d1fa88c1d1a0dec39a5a27e4a4ce156e58190f5bee93278006314a32ec3",
+		"contracts/Chapter6.sol": {
+			"keccak256": "0xb575decec19eb082e6414cbdbeabc3ff4de7ab8b01170dd596c2f94bcbafd6e7",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://588dcced4cb1abe3aff043b242797cb1f71766d0ad09cd7710eb0ea18d0725b0",
-				"dweb:/ipfs/QmTuThTD5CVChzCKhn6Lsi3d5ff354AKCddhpAFxUMSK3C"
+				"bzz-raw://dec6a9fd2be10eeaf85bd42fcca1cce9e78f08ef707ef17dc3430544ca579db7",
+				"dweb:/ipfs/QmPzBUrHNpMVHBGFg8ZKnSHCkfBtPji4tFBirHsMRaChAL"
 			]
 		}
 	},
