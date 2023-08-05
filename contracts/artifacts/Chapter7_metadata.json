@@ -1,0 +1,73 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_myNumber",
+						"type": "uint256"
+					}
+				],
+				"name": "setMyNumber",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "whatIsMyNumber",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"notice": "Global Variables  - Msg - Block - ABI - TX",
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Chapter7.sol": "Chapter7"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Chapter7.sol": {
+			"keccak256": "0x4754f5771efc6bb21c6faf4dae9c277f626d739b9438a041260e7b7286dbdd3a",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://d2bdb024980ffae7060d48aa55121e6d7009f5b8493008535fcdb0225b7925b6",
+				"dweb:/ipfs/QmaKUMJZGQzFL6FdF6HBH8ViqZGffotruR4unty71KU2tk"
+			]
+		}
+	},
+	"version": 1
+}
