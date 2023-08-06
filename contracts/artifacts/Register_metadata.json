@@ -1,0 +1,105 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "initialPrice",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_price",
+						"type": "uint256"
+					}
+				],
+				"name": "changePrice",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "register",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"name": "registeredAddresses",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"notice": "Modifier 對一個函式進行補充敘述，或者在滿足 modifier 定義的特定條件後才執行函式的內容",
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Chapter11.sol": "Register"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Chapter11-1.sol": {
+			"keccak256": "0xdc489985af0e33a153b364025bd85ea15fcc06f6d8ce30bd73fb25764c1e668f",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://814ee7a43aa4fdbb6f9079f22f0760e7e5a05b89449d243a7e8b3d21f2985130",
+				"dweb:/ipfs/QmbRHJmkEs8ZXTE7jmhUNqxLn651LFBvn3egnSQHqHTUqw"
+			]
+		},
+		"contracts/Chapter11.sol": {
+			"keccak256": "0xf6336a7a9972aa78f83accb77d371502fac19399bb7d458dfb3f81943638ca20",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://eb7d83e82f4c5465b5db23c9be66865972927872ef4af3f795e5dcd5ef19bdd7",
+				"dweb:/ipfs/QmR1jTbzPj9CjeQy2Q4qCgjvxcr5eChRBGra7DApQsKz4P"
+			]
+		}
+	},
+	"version": 1
+}

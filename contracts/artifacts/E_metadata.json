@@ -6,29 +6,23 @@
 	"output": {
 		"abi": [
 			{
-				"inputs": [
-					{
-						"internalType": "uint256",
-						"name": "_data",
-						"type": "uint256"
-					}
-				],
-				"name": "foo",
+				"inputs": [],
+				"name": "f",
 				"outputs": [],
 				"stateMutability": "nonpayable",
 				"type": "function"
 			},
 			{
 				"inputs": [],
-				"name": "foo",
+				"name": "u",
 				"outputs": [
 					{
-						"internalType": "string",
+						"internalType": "uint256",
 						"name": "",
-						"type": "string"
+						"type": "uint256"
 					}
 				],
-				"stateMutability": "pure",
+				"stateMutability": "view",
 				"type": "function"
 			}
 		],
@@ -45,7 +39,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Chapter11-1.sol": "A"
+			"contracts/Chapter11-1.sol": "E"
 		},
 		"evmVersion": "paris",
 		"libraries": {},

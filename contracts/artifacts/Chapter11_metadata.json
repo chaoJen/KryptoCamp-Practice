@@ -6,6 +6,11 @@
 	"output": {
 		"abi": [
 			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
 				"inputs": [
 					{
 						"internalType": "uint256",
@@ -21,14 +26,8 @@
 			{
 				"inputs": [],
 				"name": "foo",
-				"outputs": [
-					{
-						"internalType": "string",
-						"name": "",
-						"type": "string"
-					}
-				],
-				"stateMutability": "pure",
+				"outputs": [],
+				"stateMutability": "nonpayable",
 				"type": "function"
 			}
 		],
@@ -40,12 +39,13 @@
 		"userdoc": {
 			"kind": "user",
 			"methods": {},
+			"notice": "Inheritance C3 Linearization 演算法",
 			"version": 1
 		}
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Chapter11-1.sol": "A"
+			"contracts/Chapter11.sol": "Chapter11"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -60,11 +60,19 @@
 	},
 	"sources": {
 		"contracts/Chapter11-1.sol": {
-			"keccak256": "0xdf880cb37c54c22f5a3c89ba5988d719024a76c2cdc60b25d1d7322ec821f82e",
+			"keccak256": "0xdc489985af0e33a153b364025bd85ea15fcc06f6d8ce30bd73fb25764c1e668f",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://dcd6a0f53dba84e0e655103d43fb8e4c0e6df3256ae915a78b57e4eda9f5d8e1",
-				"dweb:/ipfs/QmYxgL9AjajGBhayvvs5hqg1bShrraew9wUejvZnvV3gL7"
+				"bzz-raw://814ee7a43aa4fdbb6f9079f22f0760e7e5a05b89449d243a7e8b3d21f2985130",
+				"dweb:/ipfs/QmbRHJmkEs8ZXTE7jmhUNqxLn651LFBvn3egnSQHqHTUqw"
+			]
+		},
+		"contracts/Chapter11.sol": {
+			"keccak256": "0xf6336a7a9972aa78f83accb77d371502fac19399bb7d458dfb3f81943638ca20",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://eb7d83e82f4c5465b5db23c9be66865972927872ef4af3f795e5dcd5ef19bdd7",
+				"dweb:/ipfs/QmR1jTbzPj9CjeQy2Q4qCgjvxcr5eChRBGra7DApQsKz4P"
 			]
 		}
 	},

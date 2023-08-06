@@ -8,27 +8,21 @@
 			{
 				"inputs": [
 					{
-						"internalType": "uint256",
-						"name": "_data",
-						"type": "uint256"
+						"internalType": "address",
+						"name": "_addrB",
+						"type": "address"
 					}
 				],
-				"name": "foo",
+				"name": "callFoo",
 				"outputs": [],
 				"stateMutability": "nonpayable",
 				"type": "function"
 			},
 			{
 				"inputs": [],
-				"name": "foo",
-				"outputs": [
-					{
-						"internalType": "string",
-						"name": "",
-						"type": "string"
-					}
-				],
-				"stateMutability": "pure",
+				"name": "createA",
+				"outputs": [],
+				"stateMutability": "nonpayable",
 				"type": "function"
 			}
 		],
@@ -45,7 +39,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Chapter11-1.sol": "A"
+			"contracts/Chapter11-1.sol": "C"
 		},
 		"evmVersion": "paris",
 		"libraries": {},

@@ -28,7 +28,7 @@
 						"type": "string"
 					}
 				],
-				"stateMutability": "pure",
+				"stateMutability": "nonpayable",
 				"type": "function"
 			}
 		],
@@ -45,7 +45,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Chapter11-1.sol": "A"
+			"contracts/Chapter11-1.sol": "B"
 		},
 		"evmVersion": "paris",
 		"libraries": {},

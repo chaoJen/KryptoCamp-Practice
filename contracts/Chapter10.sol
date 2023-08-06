@@ -10,7 +10,6 @@ pragma solidity >=0.8.2;
  * - Event 作為合約的一部分是可以被繼承的
  * - 合約不可以存取自己的 Event 被啟動之後的 logs 和任何相關 data
  * - 被標示 indexed 的 Event 參數可以在未來被檢索
- *
  */
 contract Chapter10 {
 

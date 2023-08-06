@@ -6,29 +6,10 @@
 	"output": {
 		"abi": [
 			{
-				"inputs": [
-					{
-						"internalType": "uint256",
-						"name": "_data",
-						"type": "uint256"
-					}
-				],
+				"inputs": [],
 				"name": "foo",
 				"outputs": [],
 				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "foo",
-				"outputs": [
-					{
-						"internalType": "string",
-						"name": "",
-						"type": "string"
-					}
-				],
-				"stateMutability": "pure",
 				"type": "function"
 			}
 		],
@@ -45,7 +26,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Chapter11-1.sol": "A"
+			"contracts/Chapter10.sol": "BB"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -59,12 +40,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/Chapter11-1.sol": {
-			"keccak256": "0xdf880cb37c54c22f5a3c89ba5988d719024a76c2cdc60b25d1d7322ec821f82e",
+		"contracts/Chapter10.sol": {
+			"keccak256": "0xf12ec63b1d88c8ca394bc239140299b382ffbf461341d3a9422c068b6e2ce745",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://dcd6a0f53dba84e0e655103d43fb8e4c0e6df3256ae915a78b57e4eda9f5d8e1",
-				"dweb:/ipfs/QmYxgL9AjajGBhayvvs5hqg1bShrraew9wUejvZnvV3gL7"
+				"bzz-raw://5e5515027604233b6019f9bd1af45374ff0d1e415d0c6add65a7de95f38c172b",
+				"dweb:/ipfs/QmUVqKWU6WEf8zQgerhLVF5v844iJ4YwpBEiMgMTuJNVPK"
 			]
 		}
 	},
