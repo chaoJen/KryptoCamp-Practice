@@ -1,0 +1,78 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "a",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "b",
+						"type": "uint256"
+					}
+				],
+				"name": "add",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Chapter13.sol": "LibDeplyed"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Chapter12.sol": {
+			"keccak256": "0xdaea2382658ae4269a9980b23d4e8fc0fa64485e4f61eea25bad1ef7420002d7",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://cee48339b360967d66dbf99b55951fe6fda642163d0af5d923cad0d66c6dc02d",
+				"dweb:/ipfs/Qmcd3CreK6Wo9vKqrB4jQoPp1eSwm2V8GqyeGpirn99Ccr"
+			]
+		},
+		"contracts/Chapter13.sol": {
+			"keccak256": "0x97e06284bb06ca85036e067ab1d9eae169d0ce87b6b8a2ff137157c827b52de1",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://323eadebd4d4f84adafc721a368306c1d49a85b5d41d15f29b0fc9c924d74950",
+				"dweb:/ipfs/QmVwomAamsoxM7WN7abWjqB2CUUHimavmYoEtWkEAgFSJ3"
+			]
+		}
+	},
+	"version": 1
+}

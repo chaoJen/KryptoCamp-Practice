@@ -1,0 +1,54 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"notice": "library 不可宣告任何的 state variables，也無法傳送任何 eth，只會被部署一次",
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Chapter13.sol": "Lib"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Chapter12.sol": {
+			"keccak256": "0xdaea2382658ae4269a9980b23d4e8fc0fa64485e4f61eea25bad1ef7420002d7",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://cee48339b360967d66dbf99b55951fe6fda642163d0af5d923cad0d66c6dc02d",
+				"dweb:/ipfs/Qmcd3CreK6Wo9vKqrB4jQoPp1eSwm2V8GqyeGpirn99Ccr"
+			]
+		},
+		"contracts/Chapter13.sol": {
+			"keccak256": "0x09449e83d9745012c39aa95e33faaf08a1554321ea5cb0faa17ccf30a8192086",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://38121f1eab793da71d20accf344ed86426d5825752a00e4410d925fe9d360e25",
+				"dweb:/ipfs/QmXWDACLYgfyiPhuwgWicw8wGGz7PqNX1ZTcArjBSyW6yj"
+			]
+		}
+	},
+	"version": 1
+}
